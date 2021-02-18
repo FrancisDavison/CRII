@@ -30,7 +30,6 @@ public class Question_1
 			short Random_Short = (short)r;
 			RandomNumber.add(Random_Short);
 		}
-		System.out.println(RandomNumber);
 		return RandomNumber;
 	}
 }
